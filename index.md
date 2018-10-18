@@ -5,6 +5,8 @@
 layout: home
 ---
 
+## Welcome to Kissinger's Family Restaurant
+
 Formerly known as Reed's Inn, Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!
 
 > We are looking for experienced, upbeat, and hard working servers and bartenders. Please come in and fill out an application!
