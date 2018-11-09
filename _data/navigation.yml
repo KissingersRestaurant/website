@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Catering"
+    url: /catering
+  - title: "Menus"
+    url: /menus
+  - title: "Photos"
+    url: /photos/
+  - title: "Reservations"
+    url: /reservations/
+  - title: "Wings"
+    url: /wings/
