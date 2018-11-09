@@ -5,12 +5,19 @@
 layout: archive
 title: Catering
 permalink: /catering/
+classes: wide
+sidebar:
+  - title: ""
+    image: /assets/kiss-co.gif
+    image_alt: "image"
+  - title: "Address"
+    text: "543 E. Market St. Gratz, PA, 17030
+    Tel:  (717) 365-3175"
+  - title: ""
+    text: "Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!"
 ---
 
-Kissinger's is happy to announce that we provide catering services at your location.
-
-We supply this service for many events or situations like:
-
+Kissinger's is happy to provide you with catering services at your location. We supply this service for events or situations, such as:
 - Personal milestones
 - Birthdays
 - Graduations
@@ -23,4 +30,4 @@ We supply this service for many events or situations like:
 - Award banquets
 - Holiday parties
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_4dEpBmEjpAAfpbA8no0hI9BZxcj1IJ5beHU8W0wCsp09Vw/viewform?embedded=true" width="640" height="624" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe style="width:100%; height:900px; float:right;" src="https://docs.google.com/forms/d/e/1FAIpQLSd_4dEpBmEjpAAfpbA8no0hI9BZxcj1IJ5beHU8W0wCsp09Vw/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

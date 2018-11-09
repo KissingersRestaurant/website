@@ -5,10 +5,22 @@
 layout: archive
 title: Wings
 permalink: /wings/
+classes: wide
+sidebar:
+  - title: ""
+    image: /assets/kiss-co.gif
+    image_alt: "image"
+  - title: "Address"
+    text: "543 E. Market St. Gratz, PA, 17030
+    Tel:  (717) 365-3175"
+  - title: ""
+    text: "Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!"
 ---
 
-![chicken wings](/assets/chickenwingtop.png)
+## Thursday is Wing Night!
 
-![wing board](/assets/wingboard.png)
+Try a dozen of our wings with any sauce.
 
-![wing sauces](/assets/wingsauces.png)
+<img src="/assets/wingsauces.png" style="background-color:#fff; width:100%;" />
+
+<img src="/assets/wings.jpg" style="width:100%;" />

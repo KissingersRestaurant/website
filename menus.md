@@ -5,36 +5,46 @@
 layout: archive
 title: Menus
 permalink: /menus/
+classes: wide
+sidebar:
+  - title: ""
+    image: /assets/kiss-co.gif
+    image_alt: "image"
+  - title: "Address"
+    text: "543 E. Market St. Gratz, PA, 17030
+    Tel:  (717) 365-3175"
+  - title: ""
+    text: "Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!"
 ---
 
-<div id="menusContainer"></div>
+<div id="menusContainer" style="display:block; width:100%;"></div>
 
 <script type="text/javascript" src="https://menus.singleplatform.co/businesses/storefront/?apiKey=ke09z8icq4xu8uiiccighy1bw">
 </script>
 <script>
     var options = {};
-    options['PrimaryBackgroundColor'] = '#D6BD94';
-    options['MenuDescBackgroundColor'] = '#D6BD94';
-    options['SectionTitleBackgroundColor'] = '#D6BD94';
-    options['SectionDescBackgroundColor'] = '#D6BD94';
-    options['FeedbackSubmitBackgroundColor'] = '#D6BD94';
-    options['ItemBackgroundColor'] = '#D6BD94';
-    options['FeedbackBackgroundColor'] = '#D6BD94';
-    options['FeedbackCancelBackgroundColor'] = '#D6BD94';
+    options['PrimaryBackgroundColor'] = '#252a34';
+    options['MenuDescBackgroundColor'] = '#252a34';
+    options['SectionTitleBackgroundColor'] = '#252a34';
+    options['SectionDescBackgroundColor'] = '#252a34';
+    options['FeedbackSubmitBackgroundColor'] = '#252a34';
+    options['ItemBackgroundColor'] = '#252a34';
+    options['FeedbackBackgroundColor'] = '#252a34';
+    options['FeedbackCancelBackgroundColor'] = '#252a34';
     options['PrimaryFontFamily'] = 'Roboto';
     options['BaseFontSize'] = '14px';
     options['FontCasing'] = 'Default';
-    options['PrimaryFontColor'] = '#782311';
-    options['MenuDescFontColor'] = '#782311';
-    options['SectionTitleFontColor'] = '#000';
-    options['SectionDescFontColor'] = '#000';
-    options['FeedbackSubmitFontColor'] = '#000';
-    options['ItemTitleFontColor'] = '#000';
-    options['FeedbackFontColor'] = '#000';
-    options['FeedbackFieldFontColor'] = '#000';
-    options['FeedbackCancelFontColor'] = '#000';
-    options['ItemDescFontColor'] = '#000';
-    options['ItemPriceFontColor'] = '#000';
+    options['PrimaryFontColor'] = '#eaeaea';
+    options['MenuDescFontColor'] = '#eaeaea';
+    options['SectionTitleFontColor'] = '#eaeaea';
+    options['SectionDescFontColor'] = '#eaeaea';
+    options['FeedbackSubmitFontColor'] = '#eaeaea';
+    options['ItemTitleFontColor'] = '#eaeaea';
+    options['FeedbackFontColor'] = '#eaeaea';
+    options['FeedbackFieldFontColor'] = '#eaeaea';
+    options['FeedbackCancelFontColor'] = '#eaeaea';
+    options['ItemDescFontColor'] = '#eaeaea';
+    options['ItemPriceFontColor'] = '#eaeaea';
     options['HideDisplayOptionPhotos'] = 'true';
     options['HideDisplayOptionFeedback'] = 'true';
     options['HideDisplayOptionDisclaimer'] = 'true';
