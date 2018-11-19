@@ -22,5 +22,11 @@ sidebar:
   - title: ""
     text: "Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!"
 ---
+<link rel="stylesheet" type="text/css" href="/assets/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/js/slick/slick-theme.css"/>
 
-PHOTOS
+<div class="gallery">
+  <div><img src="/assets/photos/chicken-marsala.jpg" /></div>
+  <div><img src="/assets/photos/peanut-salted-carmel-scallops.jpg" /></div>
+  <div><img src="/assets/photos/pork-roulade.jpg" /></div>
+</div>
