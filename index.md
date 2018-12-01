@@ -11,11 +11,10 @@ sidebar:
   - title: Hours
     text: "M - T: Closed <br>
       W - Th: 4PM - 9PM <br>
-      Fri: 11AM - 9PM <br>
-      Sat: 7AM - 9PM <br>
-      Sun: 8AM - 2PM"
+      Fri - Sat: 11AM - 9PM <br>
+      Sun: 11AM - 2PM"
   - title: "Address"
-    text: "543 E. Market St. Gratz, PA, 17030
+    text: "543 E. Market St. Gratz, PA, 17030 <br>
     Tel:  (717) 365-3175"
 ---
 
