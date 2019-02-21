@@ -16,6 +16,8 @@ sidebar:
   - title: "Address"
     text: "543 E. Market St. Gratz, PA, 17030 <br>
     Tel:  (717) 365-3175"
+  - title: "Gift Card"
+    text: "Give the [perfect gift](https://squareup.com/gift/Z11TT9GCWFX9Y/order)."
 ---
 
 **Welcome to Kissinger's Family Restaurant**
