@@ -4,29 +4,21 @@
 
 layout: home
 classes: wide
-sidebar:
-  - title: ""
-    image: /assets/border_logo.png
-    image_alt: "image"
-  - title: Hours
-    text: "M - T: Closed <br>
-      W - Th: 4PM - 9PM <br>
-      Fri - Sat: 11AM - 9PM <br>
-      Sun: 11AM - 2PM"
-  - title: "Address"
-    text: "543 E. Market St. Gratz, PA, 17030 <br>
-    Tel:  (717) 365-3175"
-  - title: "Gift Card"
-    text: "Give the [perfect gift](https://squareup.com/gift/Z11TT9GCWFX9Y/order)."
 ---
 
-**Welcome to Kissinger's Family Restaurant**
+4/19/20
 
-Formerly known as Reed's Inn, Kissinger's Family Restaurant is located next to the fair grounds on Market Street, Gratz, PA. Serving traditional PA Dutch and American style cuisine, Kissinger's is a great place to bring your family and friends!
+To our valued customers and staff,
 
-> We are looking for experienced, upbeat, and hard working servers and bartenders. Please come in and fill out an application!
+It's with an extremely heavy heart that I write this letter.  We have happily served this community since January 2011.  I've made many wonderful friends and relationships over these years.  We've held weddings, christenings, funerals, and retirement parties.  We've hosted Thanksgiving, New Year's Eve, and Easter.  Kissinger's held more than twenty beer pairing dinners, all of which were exceptionally enjoyable. 
 
+Our staff has worked hard to create amazing dishes over the past ten years.  We have tried things outside of the norm for the area and also produced old time favorites.  We have roasted thousands of turkeys and fried millions of potatoes.  I’ve been very proud of the food that we served and the menu items we debuted.  
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="width:100%; height:500px;" src="https://maps.google.com/maps?hl=en&amp;q=543+E.+Market+St.Gratz,+PA,+17030&amp;ie=UTF8&amp;hq=&amp;hnear=543+E+Market+St,+Gratz,+Dauphin,+Pennsylvania+17048&amp;gl=us&amp;ll=40.61224,-76.708909&amp;spn=0.019743,0.027595&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+Unfortunately, due to the impact of social distancing measures enacted to protect the population from Covid-19, we have not been able to have sit-down dining for several weeks.  We tried doing take-out food but due to the type of food we serve, it just isn’t the same as being able to sit down and be served in house.  A business without income cannot last.  Because of this we have had to make the very difficult decision to not reopen Kissinger’s Family Restaurant.  We made this decision after many late nights and long discussions about how to proceed.  This was not a choice made lightly or without thought for you, our customers.  
 
-<iframe name="f3016ed5f161de" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" title="fb:like_box Facebook Social Plugin" src="https://www.facebook.com/v2.0/plugins/like_box.php?app_id=184208255081994&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F__Bz3h5RzMx.js%3Fversion%3D42%23cb%3Df39f4842f2f4f84%26domain%3Dkissingersrestaurant.com%26origin%3Dhttps%253A%252F%252Fkissingersrestaurant.com%252Ff3d3249931c5bb8%26relation%3Dparent.parent&amp;color_scheme=light&amp;container_width=480&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2FKissingers.Family.Restaurant&amp;locale=en_US&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false" style="border: none; visibility: visible; width: 300px; height: 214px;" class=""></iframe>
+Because we value our customers we are going to be accepting Kissinger’s Family Restaurant gift cards purchased since 2019 (the new design cards) at Boardwalk Family Fun Center.  We apologize for all inconveniences caused.  I’m sorry it has come to this, but we just cannot continue forward.  If you have any questions, please feel free to call the restaurant number and leave a message, I’ll be checking them regularly.    
+
+Thank you all for the support over the years.  Thank you for the friendships made.  Thank you for all of the memories.
+
+Sincerely,
+Andrew Kissinger
